@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroasterredash:
+  - apiVersion: v2
+    appVersion: 10.0.0-beta.b49597
+    created: "2022-12-23T03:17:55.190919184Z"
+    description: dataroaster redash.
+    digest: 31e8f5e135edb58710c41a46b5d7ad7fd64f8ee8225fa2d982d1f6eb66779746
+    name: dataroasterredash
+    urls:
+    - dataroasterredash-2.1.0.tgz
+    version: 2.1.0
+generated: "2022-12-23T03:17:55.19054253Z"
