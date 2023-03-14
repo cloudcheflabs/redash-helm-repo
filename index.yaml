@@ -3,7 +3,16 @@ entries:
   dataroasterredash:
   - apiVersion: v2
     appVersion: 10.0.0-beta.b49597
-    created: "2022-12-23T04:34:56.348517118Z"
+    created: "2023-03-14T02:17:11.856390464Z"
+    description: dataroaster redash.
+    digest: dbbaf118340f517ac622a146bcc2bd2bccb4feef5097adb99ceb9b48682e10ad
+    name: dataroasterredash
+    urls:
+    - dataroasterredash-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
+    appVersion: 10.0.0-beta.b49597
+    created: "2023-03-14T02:17:11.85618806Z"
     description: dataroaster redash.
     digest: 9efc502838911d2a99383e52bfc26feb6c2879c676815ad944cb72ec97f8aa8a
     name: dataroasterredash
@@ -12,7 +21,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 10.0.0-beta.b49597
-    created: "2022-12-23T04:34:56.348170031Z"
+    created: "2023-03-14T02:17:11.855346006Z"
     description: dataroaster redash.
     digest: 303175cd904bfec09b1401924d87994f706b90a8c11c5be6d4f11918cac54767
     name: dataroasterredash
@@ -21,11 +30,11 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 8.0.0.b32245
-    created: "2022-12-23T04:34:56.347865033Z"
+    created: "2023-03-14T02:17:11.85469904Z"
     description: dataroaster redash.
     digest: 3e39a36842a494c19f736c35b0d8b5eaac0e704093d6c6b27fa124d38fd10126
     name: dataroasterredash
     urls:
     - dataroasterredash-2.0.0.tgz
     version: 2.0.0
-generated: "2022-12-23T04:34:56.347403108Z"
+generated: "2023-03-14T02:17:11.853833521Z"
